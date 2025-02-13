@@ -1,0 +1,17 @@
+{
+"Registro1": [
+    {"nombre":"Pedro"},
+    {"Direccion":"puerta del sol"},
+    {"informacion de contacto":"111-111-1111"}
+],
+"Registro2":[
+    {"nombre":"Carlos"},
+    {"Direccion":"floridablanca"},
+    {"informacion de contacto":"222-222-2222"}
+],
+"Registro3":[
+    {"nombre":"juan"},
+    {"Direccion":"giron"},
+    {"informacion de contacto":"333-333-3333"}
+] 
+}
