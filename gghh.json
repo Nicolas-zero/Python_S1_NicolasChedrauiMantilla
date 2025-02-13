@@ -1,0 +1,246 @@
+{
+    "estudiantes": [
+        {
+            "id": 1,
+            "nombres": "Ana",
+            "apellidos": "G\u00f3mez",
+            "direccion": "Carrera 45",
+            "acudiente": "Carlos G\u00f3mez",
+            "telefono": "3102345678",
+            "estado": "aprobado",
+            "nota": 80,
+            "nota1": 60,
+            "nota2": 90,
+            "nota_final": 69.0,
+            "salon": "A",
+            "ruta": "Programacio\u0301n Web"
+        },
+        {
+            "id": 2,
+            "nombres": "Luis",
+            "apellidos": "Mart\u00ednez",
+            "direccion": "Avenida 67",
+            "acudiente": "Laura Mart\u00ednez",
+            "telefono": "3203456789",
+            "estado": "aprobado",
+            "nota": 70,
+            "nota1": 65,
+            "nota2": 20,
+            "nota_final": 62.0,
+            "salon": "C",
+            "ruta": "Bases de datos"
+        },
+        {
+            "id": 3,
+            "nombres": "Marta",
+            "apellidos": "L\u00f3pez",
+            "direccion": "Calle 23",
+            "acudiente": "Pedro L\u00f3pez",
+            "telefono": "3009876543",
+            "estado": "aprobado",
+            "nota": 90,
+            "nota1": 85,
+            "nota2": 95,
+            "nota_final": 87.5,
+            "salon": "B",
+            "ruta": "Programacio\u0301n formal"
+        },
+        {
+            "id": 4,
+            "nombres": "Carlos",
+            "apellidos": "Fern\u00e1ndez",
+            "direccion": "Carrera 89",
+            "acudiente": "Ana Fern\u00e1ndez",
+            "telefono": "3107654321",
+            "estado": "aprobado",
+            "nota": 88,
+            "nota1": 80,
+            "nota2": 90,
+            "nota_final": 83.4,
+            "salon": "C",
+            "ruta": "Bases de datos"
+        },
+        {
+            "id": 5,
+            "nombres": "Luc\u00eda",
+            "apellidos": "Torres",
+            "direccion": "Avenida 101",
+            "acudiente": "Carlos Torres",
+            "telefono": "3208765432",
+            "estado": "aprobado",
+            "nota": 65,
+            "nota1": 60,
+            "nota2": 70,
+            "nota_final": 62.5,
+            "salon": "C",
+            "ruta": "Bases de datos"
+        },
+        {
+            "id": 6,
+            "nombres": "Jos\u00e9",
+            "apellidos": "Ram\u00edrez",
+            "direccion": "Calle 11",
+            "acudiente": "Mar\u00eda Ram\u00edrez",
+            "telefono": "3005678901",
+            "estado": "aprobado",
+            "nota": 92,
+            "nota1": 88,
+            "nota2": 95,
+            "nota_final": 89.89999999999999,
+            "salon": "B",
+            "ruta": "Programacio\u0301n formal"
+        },
+        {
+            "id": 7,
+            "nombres": "Isabel",
+            "apellidos": "Hern\u00e1ndez",
+            "direccion": "Carrera 33",
+            "acudiente": "Pedro Hern\u00e1ndez",
+            "telefono": "3106789012",
+            "estado": "aprobado",
+            "nota": 87,
+            "nota1": 82,
+            "nota2": 89,
+            "nota_final": 84.2,
+            "salon": "B",
+            "ruta": "fundamentos de la programacion"
+        },
+        {
+            "id": 8,
+            "nombres": "Pedro",
+            "apellidos": "S\u00e1nchez",
+            "direccion": "Avenida 45",
+            "acudiente": "Ana S\u00e1nchez",
+            "telefono": "3207890123",
+            "estado": "aprobado",
+            "nota": 78,
+            "nota1": 70,
+            "nota2": 80,
+            "nota_final": 73.4,
+            "salon": "A",
+            "ruta": "Programacio\u0301n formal"
+        },
+        {
+            "id": 9,
+            "nombres": "Sof\u00eda",
+            "apellidos": "D\u00edaz",
+            "direccion": "Calle 78",
+            "acudiente": "Laura D\u00edaz",
+            "telefono": "3001239876",
+            "estado": "aprobado",
+            "nota": 72,
+            "nota1": 68,
+            "nota2": 74,
+            "nota_final": 69.8,
+            "salon": "C",
+            "ruta": "Bases de datos"
+        },
+        {
+            "id": 10,
+            "nombres": "Mario",
+            "apellidos": "Mart\u00ednez",
+            "direccion": "Carrera 56",
+            "acudiente": "Carlos Mart\u00ednez",
+            "telefono": "3108765432",
+            "estado": "aprobado",
+            "nota": 89,
+            "nota1": 84,
+            "nota2": 90,
+            "nota_final": 86.1,
+            "salon": "A",
+            "ruta": "Bases de datos"
+        },
+        {
+            "id": 11,
+            "nombres": "Ra\u00fal",
+            "apellidos": "Vargas",
+            "direccion": "Calle 88",
+            "acudiente": "Mar\u00eda Vargas",
+            "telefono": "3002345678",
+            "estado": "aprobado",
+            "nota": 91,
+            "nota1": 86,
+            "nota2": 92,
+            "nota_final": 88.10000000000001,
+            "salon": "B",
+            "ruta": "Bases de datos"
+        },
+        {
+            "id": 12,
+            "nombres": "Esteban",
+            "apellidos": "Jim\u00e9nez",
+            "direccion": "Carrera 12",
+            "acudiente": "Carlos Jim\u00e9nez",
+            "telefono": "3103456789",
+            "estado": "aprobado",
+            "nota": 85,
+            "nota1": 80,
+            "nota2": 87,
+            "nota_final": 82.2,
+            "salon": "B",
+            "ruta": "Programacio\u0301n Web"
+        }
+    ],
+    "trainers": [
+        {
+            "id": 13,
+            "nombres": "Pedro",
+            "apellidos": "Gomez",
+            "telefono": "310",
+            "horario": "Full Time"
+        },
+        {
+            "id": 14,
+            "nombres": "Jolver",
+            "apellidos": "NN",
+            "telefono": "316",
+            "horario": "Full Time"
+        },
+        {
+            "id": 15,
+            "nombres": "Miguel",
+            "apellidos": "GG",
+            "telefono": "311",
+            "horario": "Full Time"
+        },
+        {
+            "id": 16,
+            "nombres": "Juan Carlos",
+            "apellidos": "JJ",
+            "telefono": "310",
+            "horario": "6am-2pm"
+        }
+    ],
+    "salones": [
+        {
+            "id": "A",
+            "nombre": "Salon A"
+        },
+        {
+            "id": "B",
+            "nombre": "Salon B"
+        },
+        {
+            "id": "C",
+            "nombre": "Salon C"
+        }
+    ],
+    "rutas": [
+        {
+            "ruta": "fundamentos de la programacion",
+            "modulo": "Introduccio\u0301n a la algoritmia, PSeInt y Python"
+        },
+        {
+            "ruta": "Programacio\u0301n Web",
+            "modulo": "HTML, CSS y Bootstrap"
+        },
+        {
+            "ruta": "Programacio\u0301n formal",
+            "modulo": "Java, JavaScript, C#"
+        },
+        {
+            "ruta": "Bases de datos",
+            "modulo": "Mysql, MongoDb y Postgresql"
+        }
+    ]
+}
