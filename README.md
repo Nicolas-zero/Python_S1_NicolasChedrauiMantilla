@@ -2,7 +2,6 @@
 
 los siguientes archivos fueron creados con el objetivo de hacer un programa que puueda gestionar tanto la parte de Campers como la parte de Trainers desde Coordinacion academica
 
-
 # Archivos
 para la instalación de este programa se necesita descargar los siguientes archivos:
 |**main:**  |  [https://github.com/Nicolas-zero/Python_S1_NicolasChedrauiMantilla/blob/main/main.py](https://github.com/Nicolas-zero/Python_S1_NicolasChedrauiMantilla/blob/main/main.py) |
@@ -22,14 +21,10 @@ para la instalación de este programa se necesita descargar los siguientes archi
 |**CambiarNotaProyecto:**|[https://github.com/Nicolas-zero/Python_S1_NicolasChedrauiMantilla/blob/main/CambiarNotaProyecto.py](https://github.com/Nicolas-zero/Python_S1_NicolasChedrauiMantilla/blob/main/CambiarNotaProyecto.py)|
 | **CambiarEstado:**|[https://github.com/Nicolas-zero/Python_S1_NicolasChedrauiMantilla/blob/main/CambiarEstado.py](https://github.com/Nicolas-zero/Python_S1_NicolasChedrauiMantilla/blob/main/CambiarEstado.py)|
 |**CalcularNotaFinal:**|[https://github.com/Nicolas-zero/Python_S1_NicolasChedrauiMantilla/blob/main/CalcularNotaFinal.py](https://github.com/Nicolas-zero/Python_S1_NicolasChedrauiMantilla/blob/main/CalcularNotaFinal.py)|
-| **AñadirSalon:** |[https://github.com/Nicolas-zero/Python_S1_NicolasChedrauiMantilla/blob/main/A%C3%B1adirSalon.py](https://github.com/Nicolas-zero/Python_S1_NicolasChedrauiMantilla/blob/main/A%C3%B1adirSalon.py)
-|
-|**AgregarTrainer:**|[https://github.com/Nicolas-zero/Python_S1_NicolasChedrauiMantilla/blob/main/AgregarTrainer.py](https://github.com/Nicolas-zero/Python_S1_NicolasChedrauiMantilla/blob/main/AgregarTrainer.py)
-|
-| **Abrirjson:**|[https://github.com/Nicolas-zero/Python_S1_NicolasChedrauiMantilla/blob/main/Abrirjson.py](https://github.com/Nicolas-zero/Python_S1_NicolasChedrauiMantilla/blob/main/Abrirjson.py)
-|
-|**gghh.json:**|[https://github.com/Nicolas-zero/Python_S1_NicolasChedrauiMantilla/blob/main/gghh.json](https://github.com/Nicolas-zero/Python_S1_NicolasChedrauiMantilla/blob/main/gghh.json)
-|
+| **AñadirSalon:** |[https://github.com/Nicolas-zero/Python_S1_NicolasChedrauiMantilla/blob/main/A%C3%B1adirSalon.py](https://github.com/Nicolas-zero/Python_S1_NicolasChedrauiMantilla/blob/main/A%C3%B1adirSalon.py)|
+|**AgregarTrainer:**|[https://github.com/Nicolas-zero/Python_S1_NicolasChedrauiMantilla/blob/main/AgregarTrainer.py](https://github.com/Nicolas-zero/Python_S1_NicolasChedrauiMantilla/blob/main/AgregarTrainer.py)|
+| **Abrirjson:**|[https://github.com/Nicolas-zero/Python_S1_NicolasChedrauiMantilla/blob/main/Abrirjson.py](https://github.com/Nicolas-zero/Python_S1_NicolasChedrauiMantilla/blob/main/Abrirjson.py)|
+|**gghh.json:**|[https://github.com/Nicolas-zero/Python_S1_NicolasChedrauiMantilla/blob/main/gghh.json](https://github.com/Nicolas-zero/Python_S1_NicolasChedrauiMantilla/blob/main/gghh.json)|
 
 # Explicación
 al meternos a main.py y ejecutarlo se aparecerá un menú con 3 perfiles, camper, trainer y coordinación. Al elegir uno de estos perfiles se nos habilitaran diferentes opciones, en el caso de coordinación el puede cambiar y/o modificar todo 
