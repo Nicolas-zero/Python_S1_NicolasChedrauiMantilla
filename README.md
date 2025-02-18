@@ -1,4 +1,5 @@
 Proyecto sistema campuslands
+
 DESCRIPCION:
 lossiguientes archivos fueron creados con el objetivo de hacer un programa que puueda gestionar tanto la parte de Campers como la parte de Trainers desde Coordinacion academica
 
